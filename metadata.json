@@ -1,0 +1,5 @@
+{
+  "name": "Lumina TTS Reader",
+  "description": "An immersive text-to-speech reader experience using Gemini 2.5 Flash TTS to narrate a journey of dreams and memory.",
+  "requestFramePermissions": []
+}
